@@ -1,4 +1,4 @@
-# sbox-api-template
+# sbox-api-template VERSION 1.0
 Demo: https://sharko.app/sbox_api/index
 
 I will try to update the project as the api is updated.
