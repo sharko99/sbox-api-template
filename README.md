@@ -10,3 +10,5 @@ The backend api documentation can be found here: https://wiki.facepunch.com/sbox
 The project uses PHP to call the api and javascript to use the api's result. I tried to make a nice styling but it's not my main quality so it may not be mobile-friendly from the first release.
 
 IMPORTANT: As this project is made for beginners, no framework is used. Pure HTML, CSS, Javascript and PHP are used. JQuery, Bootstrap and Google Fonts libraries are also used.
+
+This project is ready to import on your web server and to use! I plan to make a version without PHP soon :)
