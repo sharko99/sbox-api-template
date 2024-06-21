@@ -1,4 +1,5 @@
 # sbox-api-template VERSION 1.0
+## [OUTDATED]: I do not own this domain anymore, so the demo is outdated. You might try to self host the package but 3 years after the API may have changed. This is more like an archive, have fun anyway.
 Demo: https://sharko.app/sbox_api/index
 
 I will try to update the project as the api is updated.
